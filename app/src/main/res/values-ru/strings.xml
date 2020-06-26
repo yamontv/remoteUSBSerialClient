@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Удаленный USB-Терминал</string>
+    <string name="start_button">Старт</string>
+    <string name="stop_button">Стоп</string>
+    <string name="no_device_found">Устройство не подключено</string>
+    <string name="stopped">Клиент остановлен</string>
+    <string name="connected_to">Подключен к %1$s</string>
+    <string name="connect_fail">Не удалось подключиться к серверу</string>
+    <string name="connecting">Подключение...</string>
+    <string name="connected">Подключен к серверу</string>
+    <string name="disconnected">Отключен от сервера</string>
+</resources>
